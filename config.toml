@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "fdg "
+baseURL = "https:\/\/dfg.dfh.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
